@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name" translatable="false">SwiftBlood</string>
+    <string name="facebook_application_id" translatable="false">396538664419429</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">396538664419429</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+
+    <string name="donationActivity_string1">"  The SwiftBlood team puts in a lot of efforts to bring you this solution and you can help to keep us moving and innovating. "</string>
+    <string name="donationActivity_string2">Choose a payment method below and buy us a cup of coffee starting at only 2,500 XAF ($5)  </string>
+    <string name="bankItemActivity_title">Blood Bank List</string>
+    <string name="tableLayoutActivity_lastlyUpdated">Lastly Updated :</string>
+    <string name="boardRequestActivity_title">Request Board</string>
+    <string name="writeDonorActivity_title">Post a Request</string>
+    <string name="writeDonorActivity_writeSuccessful">Request Successfully Posted</string>
+    <string name="sendFCM_title">New Donation Request Alert !!!</string>
+    <string name="sendFCM_body">may need your help with a donation of group</string>
+    <string name="sendFCM_at">at</string>
+    <string name="sendFCM_urgently">Urgently !</string>
+    <string name="donorListActivity_title">Donor List</string>
+    <string name="onboarding_request_title">Blood Requests</string>
+    <string name="onboarding_request_body"><![CDATA[Post a Blood Request & let our donor community help you out. You can help someone in need too.]]></string>
+    <string name="onboarding_bank_title">Blood Bank Data</string>
+    <string name="onboarding_bank_data">Don\'t move an inch to get the latest blood bank updates. We got you covered.</string>
+    <string name="onboarding_list_title">Free Donor List</string>
+    <string name="onboarding_list_body">Reach out to donors on our Free Donor list for help or better still, be one of them.</string>
+    <string name="onboarding_assistance_title">Assistance</string>
+    <string name="onboarding_assistance_body"><![CDATA[Visit our Website & Blog to know about Swiftblood®, Our Promotions & More.]]></string>
+    <string name="bloodgroup_default" translatable="false">Unspecified</string>
+    <string name="sex_default">Decline to Answer</string>
+    <string name="profile_signup_validation_toast">Choose A Blood Group and Gender</string>
+    <string name="profile_signup_subscribe_error_toast">Error in subscription</string>
+    <string name="profile_signup_subscribe_success_toast">Successfull subscription</string>
+    <string name="mainActivity_connection">Please Check your internet Connection.</string>
+    <string name="messagingService_channel_description" translatable="false">Board Request Notifications</string>
+    <string name="activity_board_choice_post_blood_request">Post Blood Request</string>
+    <string name="activity_board_choice_notify_our_community">Notify our community of blood donors about your need.</string>
+
+    <string name="activity_board_choice_discover_people">Discover people in need of blood and reach out.</string>
+    <string name="activity_database_choice_free_donor_list">Free Donor List</string>
+    <string name="activity_database_choice_donor_directory">Consult our donor directory for free.</string>
+    <string name="activity_database_choice_blood_bank_list">Blood Bank List</string>
+    <string name="activity_database_choice_access_details_blood_banks">Access updates  from blood banks</string>
+    <string name="activity_donor_h1">Fill the information below to help us tell our donors who to contact in order to aid with a blood donation.</string>
+    <string name="activity_donor_recipient_names_hint">Recipient Names</string>
+    <string name="activity_donor_hospital_blood_bank_hint">Hospital/Blood Bank</string>
+    <string name="activity_donor_telephone_number_hint">Telephone Number</string>
+    <string name="activity_donor_recipient_message_hint">Recipient Message</string>
+    <string name="activity_donor_region">Region</string>
+    <string name="activity_donor_terms_conditions">I have read and agreed the terms and conditions of functioning of SwiftBlood app.</string>
+    <string name="activity_donor_post_donor_request_btn">Post Donor Request</string>
+    <string name="activity_edit_profile_h1">Edit your Profile information, keep it accurate and up-to-date.</string>
+    <string name="activity_edit_profile_pseudo_hint">Pseudo</string>
+    <string name="activity_edit_profile_town_hint">Town</string>
+    <string name="activity_edit_profile_telephone_number_hint">Telephone Number</string>
+    <string name="activity_edit_profile_blood_group">Blood Group</string>
+    <string name="activity_edit_profile_blood_unknown">I dont know my blood group</string>
+    <string name="activity_edit_profile_gender">Gender</string>
+    <string name="activity_edit_profile_no_mention">No mention</string>
+    <string name="activity_edit_profile_edit_profile_btn">Edit Profile</string>
+    <string name="activity_edit_profile_female">Female</string>
+    <string name="activity_edit_profile_male">Male</string>
+    <string name="activity_main_request_title">Request Emergency Blood Donor</string>
+    <string name="activity_main_request_body">Submit a request for an urgent blood donation.</string>
+    <string name="activity_main_blood_database_title">Blood Database</string>
+    <string name="activity_main_database_body"><![CDATA[Consult donors & blood bank info quickly.]]></string>
+    <string name="activity_main_help_title">Help</string>
+    <string name="activity_main_help_body"><![CDATA[Access account settings & learn more]]></string>
+    <string name="activity_profile_signup_h1">Fill the information below to help us tell our donors who to contact in order to help with a blood donation.</string>
+    <string name="activity_profile_signup_pseudo_hint">Pseudo</string>
+    <string name="activity_profile_signup_town_hint">Town</string>
+    <string name="activity_profile_signup_telephone_number_hint">Telephone Number</string>
+    <string name="activity_profile_signup_blood_group">Blood Group</string>
+    <string name="activity_profile_signup_blood_group_unknown">I dont know my blood group</string>
+    <string name="activity_profile_signup_gender">Gender</string>
+    <string name="activity_profile_signup_no_mention">No mention</string>
+    <string name="activity_profile_signup_male">Male</string>
+    <string name="activity_profile_signup_female">Female</string>
+    <string name="activity_profile_signup_setup_account_btn">Setup Account</string>
+    <string name="activity_profile_signup_voluntary_blood">Identify me as a voluntary blood donor on SwiftBlood® platform (optional)</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="activity_profile_signup_terms_and_conditions">I have read and agreed the terms and conditions of functioning of SwiftBlood App.</string>
+    <string name="activity_table_layout_summary">Summary</string>
+    <string name="activity_table_layout_whole_blood_">Whole Blood (Contains All Parts)</string>
+    <string name="activity_table_layout_rbc">Red Blood Cells (RBC)</string>
+    <string name="activity_table_layout_blood_plasma">Blood Plasma (Low Platelet content)</string>
+    <string name="activity_table_layout_platelet_concentrate">Platelet Concentrate</string>
+    <string name="activity_table_layout_summation">Summation (Total blood count)</string>
+    <string name="activity_donor_character_limit">/150 Characters</string>
+    <string name="activity_user_account_edit_btn">Edit Profile</string>
+    <string name="subscribe_fcm_error_toast">Subscription Error</string>
+    <string name="subscribe_fcm_success_toast">Subscription Success</string>
+    <string name="profile_edited_toast">Profile Edited</string>
+    <string name="choose_group_gender_toast">Choose A Blood Group and Gender</string>
+    <string name="edit_profile_activity_title">Edit Profile</string>
+
+
+    <string-array name="groups">
+        <item>-Any Blood Group-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string-array name="regions">
+        <item>-Any Region-</item>
+        <item>Adamaoua</item>
+        <item>Center</item>
+        <item>East</item>
+        <item>Far-North</item>
+        <item>Littoral</item>
+        <item>North</item>
+        <item>North-West</item>
+        <item>South</item>
+        <item>South-West</item>
+        <item>West</item>
+
+    </string-array>
+    <string name="activity_board_choice_view_requests">View Blood Requests</string>
+    <string name="dashboard_menu_language">Language</string>
+    <string name="dashboard_menu_logout">Logout</string>
+    <string name="dashboard_menu_rate_us">Rate Us</string>
+    <string name="activity_user_management_my_account_title">My Account</string>
+    <string name="activity_user_management_my_account_body">Edit and Modify your profile details</string>
+    <string name="activity_user_management_website_blog_title">Website Blog</string>
+    <string name="activity_user_management_website_blog_body"><![CDATA[Get updates on our promotions & learn more]]></string>
+    <string name="user_profile_activity_title">Account Settings</string>
+    <string name="donating_status_free">Free</string>
+    <string name="donating_status_donating">Donating</string>
+    <!-- Twitter consumer key and secret -->
+
+
+</resources>

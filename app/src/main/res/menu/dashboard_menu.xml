@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.app.martex.healthapp.MainActivity">
+
+
+    <item
+        android:id="@+id/rate_us"
+        android:icon="@drawable/ic_star_half_24dp"
+        android:title="@string/dashboard_menu_rate_us"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/language"
+        android:icon="@drawable/ic_language_24dp"
+        android:title="@string/dashboard_menu_language"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/signout"
+        android:title="@string/dashboard_menu_logout"
+        app:showAsAction="never" />
+</menu>
